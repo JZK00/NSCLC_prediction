@@ -1,0 +1,4 @@
+ID,Image,Mask
+EGFR1,./image1.nrrd,./label1.nrrd
+EGFR2,./image2.nrrd,./label2.nrrd
+EGFR3,./image3.nrrd,./label3.nrrd
